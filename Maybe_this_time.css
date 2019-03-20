@@ -1,0 +1,65 @@
+body{
+	background: black;
+	padding-top:30px;
+	
+}
+
+.hr1{
+	color: red;
+	}
+
+.h1{
+	font-size: 60px;
+	
+}
+
+div{
+	padding-bottom: 40px;
+
+}
+
+img{
+	
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	border: solid 20px;
+	color: white;	
+	
+}
+
+audio{
+	border: solid white;
+	width: 600px;
+	border-style:dashed;
+	border-color: coral;
+}
+
+.h1 ,.p1,.p2,#h2{
+	color: white;
+	text-align:center;
+	
+}
+
+.p1{
+	text-decoration: underline;
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	line-height: 25px;
+	padding-bottom: 70px;
+}
+
+.p2{
+	font-size:30px;
+}
+
+
+#h2{
+	font-size: 60px;
+	padding-top: 20px;
+	font-size: ;
+	color: yellow;
+	
+}

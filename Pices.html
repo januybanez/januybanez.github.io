@@ -1,0 +1,146 @@
+<html>
+	<head>
+		<title>
+			All About Pices
+		</title>
+		<style>
+		
+		div {
+		padding-top: 0;
+		color:	#fff;
+		mix-blend-mode: overlay;
+		background: rgba(0,0,0,50);
+		font-size:	58px;
+		font-weight: 700;
+		left:110%;
+		text-decoration: underline;
+		text-decoration-color: #00FFFF;  
+		position: relative;
+		-webkit-animation: 2s ; 
+		animation:move 2s;
+		animation-fill-mode: forwards;
+		
+      }
+
+
+		@-webkit-keyframes  {
+			from {right: 100px;}
+			to {left: 100%;}
+		}
+
+		
+		@keyframes move {
+			from {right:100px;}
+			to {left: 0px;}
+		}
+		
+		body{
+			background:url(wPices.png)
+		
+		}
+		
+		.img{
+			position: relative;
+			animation-name: img;
+			animation-duration: 2s;
+			animation-fill-mode: forwards;
+			border-radius:  100%;
+			width: 200px;
+			float: left;
+			shape-outside: circle();
+			margin: 30px;
+			padding-top: 10px;
+			
+			
+			
+
+      }
+	  
+	  @keyframes img {
+			0%{left: -1000px;}
+			100%{left: 0;}
+			
+		}
+		
+		.p1{
+			color: white;
+			font-size: 		30px;
+			font-weight:	700;
+			padding-left: 40px;
+			padding-top: 30px;
+			position: relative;
+			animation-name: p1;
+			animation-duration: 2s;
+			animation-fill-mode: forwards;
+			text-align: justify;
+			line-height: 50px;
+			
+			
+		}
+		
+		@keyframes p1 {
+			0%{bottom: -1000px;}
+			100%{bottom: 0;}
+			
+		}
+		
+		.f1 input{
+			width: 200px;
+		}
+		
+		input[type="submit"]{
+			border: none;
+			outline: none;
+			height: 40px;
+			background: red;
+			color: #fff;
+			font-size: 18px;
+			border-radius: 20px;
+			line-spacing: 50px;
+			display: block;
+			float: right;
+			margin: 10px;
+			
+		
+	
+	  
+		</style>
+	</head>
+	
+<div>
+<p>All About Pices<br>( February 19 - March 20 )</p>
+</div>
+
+<body>	
+<img src="Pices.gif" class="img"  />
+
+<p class="p1">Pisces people are sensitive and intuitive, and can become easily overloaded by crowds or overstimulating environments. It's often hard to pin these people down, 
+because they're so keen on swimming away to a place where they can experience some downtime and meditative R + R. Pisces can gain a reputation as flaky because of the way they swim 
+in and out of your life. When they do surface, Pisces make charming and magical friends, especially because they view life through rose colored glasses.
+ These fantasy fueled folks need to keep at least one fin on solid ground. At their best, Pisces are attentive and inspiring. 
+ You can find Pisces artfully composing a photo, listening to music or guided meditations in their Zen dens, people watching in the shadows of an underground club, 
+ or holding hands under the table at a romantic restaurant with a sunset view.
+
+
+
+
+</p>
+
+
+
+
+<form id="1"action="Aries.html" class="f1">
+<input type="submit" name="" value="Next"></form>
+<form action="Home-horoscope.html" class="f1">
+<input  id="1"type="submit" name="" value="Home"></form>
+<form action="Aquarius.html" class="f1">
+<input  id="1" type="submit" name="" value="Previous"></form>
+
+
+
+
+
+	
+
+</body>	
+</html>

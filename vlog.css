@@ -1,0 +1,87 @@
+*{
+margin: 0;
+padding:0;	
+}
+body{
+	background: grey;
+}
+
+.div1{
+	margin:0;
+	width: 80%;
+}
+
+.h1{
+	position:relative;
+	padding: 20px 20px;
+	text-align:center;
+	font-size: 60px;
+	letter-spacing: 10px;
+	border: red solid 1px;
+	color: white;
+	background-color: orange;
+}
+
+.div2{
+	position: relative;
+	padding-bottom: 56.25%;
+	padding-top:25px;
+	height: 0px;
+	
+}
+
+.div2 iframe{
+	position:absolute;
+	top: 5%;
+	left:20%;
+	right:50%;
+	bottom:0px;
+	height:59%;
+	width:60%; 
+}
+
+form{
+position: absolute;
+top: 91%;
+left: 44%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

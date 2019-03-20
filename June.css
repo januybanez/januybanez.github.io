@@ -1,0 +1,81 @@
+body{
+padding-top: 30px;
+background:black;
+}
+
+.cap1{
+	font-size: 90px;
+	font-style: italic;
+	color: gold;
+	
+}
+			
+fieldset{
+border: solid 33px;
+width: 60em;
+background:#ffb366;
+color:white;
+
+}
+			
+.tab2 , #div1{
+border-collapse: collapse;
+padding-right: 80px;
+}
+
+
+
+.th1{
+	font-size:50px;
+}
+
+.td1{
+	font-size: 30px;
+	padding-left: 10px;
+	padding-right: 10px;	
+}
+
+#td1{
+	font-size: 30px;
+	font-size: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: red;
+}
+
+.th2{
+	font-size:20px;
+}
+
+.td2{
+	font-size: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#td2{
+	font-size: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	color: red;
+}
+		
+#div2{
+padding-top: 20px;
+padding-bottom: 25px;
+}
+
+#div3{
+padding-bottom: 20px;
+}
+
+#div4{
+	padding-top: 20px;
+}
+
+
+#a{
+	text-decoration: none;
+	font-size: 40px;
+	color: red;
+}

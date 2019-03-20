@@ -1,0 +1,47 @@
+body{
+	background:#F5DEB3;
+}
+
+
+.p1{
+	text-align: center;
+	font-size: 70px;
+	margin: 0 auto;
+	color: 	#FF6347;
+	letter-spacing: 15px
+	
+}
+
+
+fieldset{
+border: solid 10px;
+width: 70em;
+background:#D8BFD8;
+}
+
+#div2{
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	
+}
+
+#td1, .td1{
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+}
+
+#th1,#th2,#th3,#th4,#th5,#th6,#th7,#th8,#th9,#th10,#th11,#th12{
+	font-size: 25px;
+}
+
+#td1{
+	color: red;
+}
+
+
+
+

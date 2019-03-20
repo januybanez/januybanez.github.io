@@ -1,0 +1,67 @@
+body{
+	background: #DB7093;
+	margin: auto;
+}
+.box{
+	padding:30px;
+	margin: 0 auto;
+	background: green;
+	
+}
+.p1{
+	margin: 0 auto;
+	text-align: center;
+	font-size: 7em;
+	font-family: 'Monoton', cursive;
+	color: yellow;
+	letter-spacing: 10px;
+}
+ 
+.box2{
+background: #FAEBD7;
+border:dashed;
+float: left;
+position: relative;
+margin: 115px 5%;
+
+}
+.img{
+	float:left;
+}
+
+
+div1{
+	margin:0 auto;
+	width: 50%;
+	background: #FAEBD7;
+	margin: 0 auto;
+	position: relative;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	border:dashed; 
+}
+
+
+.image{
+	width: 10em;
+	padding: 10px;
+	border-radius: 30px;
+	transition: .4s;
+}
+
+.image:hover{
+	transform: scale(1.5);
+	box-shadow: 5px 20px 2px #000;
+	z-index: 2;
+}
+
+
+
+
+
+
+
+
+

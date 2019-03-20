@@ -1,0 +1,150 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body{
+	margin: 0 auto;
+}
+
+.div1{
+	width:100%;
+	height:100%;
+	background-image: url(bg.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;
+	position: relative;
+	overflow-y:auto;
+}
+
+.div2{
+	width: 500px;
+	height: auto;
+	position: absolute;
+	top: 11%;
+	left: 0;
+}
+
+.div2 a{
+	text-decoration:none;
+	font-size: 28px;
+	font-family: verdana;
+	font-weight: bold;
+	height: 90px;
+	margin: 10px 0;
+	float: left; 
+	display:inline-block;
+	background-color: black;
+	color: grey;
+	line-height: 90px;
+	text-align: center;
+	transition: 300ms;
+}
+
+a.active, .div2 a:hover{
+	background-color: white;
+	color: black;
+	width: 150%;
+}
+
+
+
+.b{
+	width: 100%;
+}
+
+
+.c{
+	width: 120%;
+}
+
+
+.d{
+	width: 95%;
+}
+
+.e{
+	width: 105%;
+}
+
+.box{
+position: relative;
+top: 78%;
+bottom: 0;
+left: 19%;
+right: 0;
+margin: 0 auto;
+width: 60%;
+	
+}
+.pp1{
+	margin: 0 auto;
+	text-align: right;
+	font-size: 83px;
+	color: white;
+	font-weight: bold;
+	border-bottom: solid 2px white;
+	
+}
+
+.pp2{
+	position: relative;
+	left: -203px;
+	margin: 0 auto;
+	text-align: right;
+	font-size:30px;
+	font-weight: bold;
+	letter-spacing: 10px;	
+	color: white;
+	
+	
+}
+
+.div3{
+	background: gold;
+}
+
+.p1{
+	font-size: 50px;
+	font-family: arial;
+}
+
+.tab1 td{
+	font-size: 35px;
+	padding-left: 100px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 12px;
+}
+.padding1{
+	padding: 40px;
+	
+}
+
+.tab2 td{
+	font-size: 35px;
+	padding-left: 100px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 13px;
+}
+ 
+ .td{
+	 font-weight: bold;
+	 font-size: 45px;
+	 
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,91 @@
+body{
+	    background: gold;
+    padding-top: 40px
+}
+
+.box{
+	background-color: grey;
+	text-align: center;
+	margin: 0 auto;
+	width: 70%;
+}
+
+.box .p1{
+	color: white;
+	font-size: 50px;
+	font-style: italic;
+	font-weight: bold;
+	letter-spacing: 20px;
+}
+
+img{
+	width: 68px;
+}
+
+.box2{
+	margin: 0 auto;
+	position: relative;
+
+	
+}
+
+.tab1{
+	margin: 0 auto;
+	border-collapse: collapse;
+	border: solid 3px;
+}
+
+.tab1 .tr1 .td1{
+	background:#d9d9d9;
+	text-align: center;
+	font-size: 30px;
+	font-style: italic;
+	font-weight: bold;
+}
+
+td{
+	padding: 10px;
+	font-size: 25px;
+}
+
+td a{
+	text-decoration: none;
+	color: black;
+}
+
+.tab1 tr:hover{
+	 background-color: white;
+	 color: black; 
+	transition: 300ms;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
